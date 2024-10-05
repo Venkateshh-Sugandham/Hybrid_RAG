@@ -1,0 +1,12 @@
+langchain
+openai
+streamlit
+langchain_community
+langchain_groq
+langchain_huggingface
+chromadb
+pypdf
+pinecone-client
+pinecone-text
+pinecone-notebooks
+pinecone
